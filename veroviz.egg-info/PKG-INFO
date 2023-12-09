@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: veroviz
+Version: 0.4.5
+Summary: VeRoViz: Vehicle Routing Visualization
+Home-page: https://veroviz.org
+Download-URL: https://github.com/optimatorlab/veroviz
+Author: Chase Murray, Lan Peng
+Author-email: cmurray3@buffalo.edu, lanpeng@buffalo.edu
+License: MIT
+Project-URL: Bug Tracker, https://github.com/optimatorlab/veroviz/issues
+Project-URL: Documentation, https://veroviz.org
+Project-URL: Source Code, https://github.com/optimatorlab/veroviz
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=2.7
+Description-Content-Type: text/markdown
+
+
+VeRoViz is a suite of tools (primarily written in Python) to easily generate, test, and visualize vehicle routing problems.
+
+Key features of the Python tools include:
+- Generation of nodes on road networks;
+- Calculation of travel time/distance matrices using external data providers;
+- Creation of Leaflet maps to view nodes, routes, and basic geometric shapes; and 
+- Generation of dynamic CesiumJS content to view 4D "movies" of vehicle routing problems.
+
+Source code is available at https://github.com/optimatorlab/veroviz.  Documentation and examples are maintained on the project homepage (https://veroviz.org).
+
+
+

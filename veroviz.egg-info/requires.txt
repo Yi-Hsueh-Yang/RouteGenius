@@ -1,0 +1,9 @@
+numpy
+pandas
+geopy
+psycopg2-binary
+urllib3
+folium
+tripy
+scipy
+matplotlib
